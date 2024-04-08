@@ -14,9 +14,9 @@
       "requires": ""
     },
     "author": "tnam1qprkmy2qrerhpq5w5jffganmqnzzpdnnjcgjtz38",
-    "voting_start_epoch": 24,
-    "voting_end_epoch": 26,
-    "grace_epoch": 28,
+    "voting_start_epoch": 86,
+    "voting_end_epoch": 88,
+    "grace_epoch": 90,
     "type": {
       "pgf_steward": null
     }
