@@ -1,9 +1,9 @@
 {
     "proposal": {
-        "id": "Arbitrary",
+        "id": "1",
         "content": {
-            "title": "Text",
-            "authors": "Text",
+            "title": "Test",
+            "authors": "SemJJ",
             "discussions-to": "www.google.com",
             "created": "2024-04-07T16:00:00Z",
             "license": "MIT",
