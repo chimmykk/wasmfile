@@ -5,15 +5,16 @@
     "content": {
       "title": "Steward",
       "authors": "Semjj",
-      "discussions-to": "https://semjjonline. xyz",
-      "created": "2024-03-08T01:24:00Z",
+      "discussions-to": "https://semjjonline.xyz",
+      "created": "2024-04-08T17:50:00Z",
       "license": "MIT",
       "abstract": "Testnet",
       "motivation": "Creating this proposal to test",
-      "details": "Just Some details about this ",
+      "details": "Just Some details about this",
       "requires": ""
     },
-    "author": "tnam1qprkmy2qrerhpq5w5jffganmqnzzpdnnjcgjtz38", "voting_start_epoch": 24,
+    "author": "tnam1qprkmy2qrerhpq5w5jffganmqnzzpdnnjcgjtz38",
+    "voting_start_epoch": 24,
     "voting_end_epoch": 26,
     "grace_epoch": 28,
     "type": {
@@ -21,7 +22,7 @@
     }
   },
   "data": {
-    "add":
-"tnam1qprkmy2qrerhpq5w5jffganmqnzzpdnnjcgjtz38",   "remove": []
+    "add": "tnam1qprkmy2qrerhpq5w5jffganmqnzzpdnnjcgjtz38",
+    "remove": []
   }
 }
