@@ -1,6 +1,6 @@
 {
     "proposal": {
-        "id": "1",
+        "id": 1,
         "content": {
             "title": "Test",
             "authors": "SemJJ",
