@@ -1,0 +1,20 @@
+{
+    "proposal": {
+        "id": 1,
+        "content": {
+            "title": "Test",
+            "authors": "SemJJ",
+            "discussions-to": "www.google.com",
+            "created": "2024-04-07T16:00:00Z",
+            "license": "MIT",
+            "abstract": "Text",
+            "motivation": "Text",
+            "details": "Text",
+            "requires": "10"
+        },
+        "author": "tnam1qprkmy2qrerhpq5w5jffganmqnzzpdnnjcgjtz38",
+        "voting_start_epoch": 86,
+        "voting_end_epoch": 88,
+        "grace_epoch": 90
+    }
+}
