@@ -1,1 +1,30 @@
-{ "proposal": { "id": 626, "content": { "title": "PGF Proposal with IBC Integration", "authors": "SemJJ", "discussions-to": "forum.namada.net/t/pgf-ibc-proposal/testnet", "created": "2024-04-07T12:00:00Z", "license": "MIT", "abstract": "This proposal testnet", "motivation": "Integrating with other blockchains via IBC can broaden the utility of the PGF funds, enabling cross-chain interactions and asset transfers.", "details": "The proposal outlines specific funding allocations and the integration steps required for IBC communication.", "requires": "0" }, "author": "tnam1qprkmy2qrerhpq5w5jffganmqnzzpdnnjcgjtz38", "voting_start_epoch": 86, "voting_end_epoch": 88, "grace_epoch": 90 }, "data": { "continuous": [ { "Internal": { "amount": "10", "target": "tnam1qprkmy2qrerhpq5w5jffganmqnzzpdnnjcgjtz38" } } ], "retro": [ { "Internal": { "amount": "10", "target": "tnam1qprkmy2qrerhpq5w5jffganmqnzzpdnnjcgjtz38" } } ], "Ibc": { "amount": "10", "target": "tnam1qprkmy2qrerhpq5w5jffganmqnzzpdnnjcgjtz38", "port_id": "transfer", "channel_id": "channel-1" } } }
+{
+  "proposal": {
+    "id": 628,
+    "data": [],
+    "content": {
+      "title": "One Fate Once Change",
+      "authors": "SemJJ",
+      "discussions-to": "forum.namada.net/t/namada-proposal/1",
+      "created": "2024-03-14T00:04:44Z",
+      "license": "MIT",
+      "abstract": "We present a proposal that will send our community to the moon. This proposal outlines all training necessary to accomplish this goal. All members are welcome to join.",
+      "motivation": "When you think about it, the moon isn't actually that far away.The moon is only 384,400 km. We have not yet brought Namada to the moon, so it is only natural to use 101 as the prime number for our modular arithmetic operations. 384,400 (mod 101) = 95. 95 km is a distance that can be easily covered by a single person in a single day. Namada was produced by more than 100 people. So 95/100 = 0, rounded to the nearest integer. This means that Namada can reach the moon in no time.",
+      "details": "Bringing Namada to the moon in no time is easily achievable. We just need to pass this governance proposal and set the plan in action",
+      "requires": ""
+    },
+    "author": "tnam1qprkmy2qrerhpq5w5jffganmqnzzpdnnjcgjtz38",
+    "voting_start_epoch": 86,
+    "voting_end_epoch": 88,
+    "grace_epoch": 90,
+    "type": {
+      "Pgf steward": null
+    }
+  },
+  "data": {
+    "add": "tnam1qprkmy2qrerhpq5w5jffganmqnzzpdnnjcgjtz38",
+    "remove": [
+      "tnam1q8q0g5j4k9ume9lapusf7wz9z3n7t8g4mszfsmtq"
+    ]
+  }
+}
